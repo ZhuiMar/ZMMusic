@@ -1,0 +1,11 @@
+platform :ios,'9.0'
+target 'foyin' do
+use_frameworks!
+pod 'Alamofire', '~> 4.0'
+pod 'SnapKit', '~> 3.0.2'
+pod 'SVProgressHUD'
+pod 'MJRefresh'
+pod 'SDWebImage'
+pod 'MJExtension'
+pod "Kingfisher"
+end
