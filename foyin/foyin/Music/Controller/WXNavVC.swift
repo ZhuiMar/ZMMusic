@@ -12,7 +12,7 @@ class WXNavVC: UINavigationController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        prepareForNavigationBar() ////////
+        prepareForNavigationBar() 
     }
     
     func prepareForNavigationBar(){
